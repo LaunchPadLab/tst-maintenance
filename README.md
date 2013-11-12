@@ -2,4 +2,4 @@
 
 CNAME
 
-    www.topsteptrader.com -> scottweisman.github.io/tst-maintenance
+    www.topsteptrader.com -> launchpadlab.github.io/tst-maintenance
